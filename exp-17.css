@@ -1,0 +1,28 @@
+*{
+    background-color: #333;
+    color: antiquewhite;
+}
+.one{
+    background-color: lightgrey;
+    width: 90px;
+    height: 60px;
+    border:1px solid green;
+    margin: 50px;
+    background-position: center center;
+}
+.two{
+    background-color: lightgrey;
+    width: 70px;
+    height: 40px;
+    border:1px solid green;
+    margin: 10px; 
+    background-position: center center;
+}
+.three{
+    background-color: lightgrey;
+    width: 30px;
+    height: 10px;
+    border:1px solid green;
+    margin: 5px 30px;
+    background-position: top;
+}
